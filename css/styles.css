@@ -39,10 +39,11 @@ img{
     img{
         width: 100%;
         height: auto;
-        margin-top: 50px;
+        margin-top: 0px;
     }
     .image1{
         margin-left: 0px;
+        margin-top: 0;
     }
     .image2{
         margin-top: 0px;
@@ -50,9 +51,10 @@ img{
     }
     .image3{
         margin-left: 0;
+        margin-top: 0;
     }
     .content{
         padding: 10px;
-        margin-top: 20px;
+        margin-top: 30px;
      }
 }
